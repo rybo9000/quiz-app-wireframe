@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.container {
+    width: 600px;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    font-size: 0px;
+}
+
+.containerMobile {
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    font-size: 0px;
+}
+
+.score {
+    width: 50%;
+    display: inline-block;
+    font-size: 14px;
+    text-align: left;
+    border: 1px solid grey;
+}
+
+.step {
+    width: 50%;
+    font-size: 14px;
+    display: inline-block;
+    text-align: right;
+    border: 1px solid grey;
+
+}
+
+.question {
+    font-size: 14px;
+    border: 1px solid grey;
+
+}
+
+.answers {
+    font-size: 14px;
+    text-align: left;
+    padding-left: 20%;
+    border: 1px solid grey;
+
+}
