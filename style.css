@@ -44,6 +44,7 @@ body {
 .question {
     font-size: 14px;
     border: 1px solid grey;
+    padding: 5%;
 
 }
 
@@ -53,4 +54,8 @@ body {
     padding-left: 20%;
     border: 1px solid grey;
 
+}
+
+#startPic {
+    width: 75%;
 }
